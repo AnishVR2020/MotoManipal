@@ -1,0 +1,25 @@
+"Parameter","Value","Unit","","Parameter","Value","Unit","Average battery temperature","31.0","C"
+"Pack state of charge","1.0","%"
+"Pack discharge current limit","0.0","A"
+"Pack charge current limit","0.0","A"
+"Lowest cell voltage","0.005","V"
+"Highest cell voltage","2.899","V"
+"Highest battery temperature","33.0","C"
+"Lowest battery temperature","31.0","C"
+"Pack amperage (current)","0.1","A"
+"Pack voltage","72.5","V"
+"Pack amphours","0.5","Ahr"
+"12v supply (lower than actual)","11.2","V"
+"Run-time","178.0","Sec"
+
+
+
+
+
+
+
+
+
+
+
+

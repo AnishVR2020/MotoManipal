@@ -1,0 +1,11 @@
+1. find reverse force as a function of velocity.
+2. throttle response and braking points on the track.
+2.1 using the torque and power vs rpm curve find out a single gear ratio. find reverse torque. #
+3. map it to power/ torque/rpm using some program.
+4. find max current and its cumulative time, also make a function of heat generated inside motor and maybe other components. And use calculus to find effects of time.
+5. use these parameters to decide battery, motorcontroller, cooling.
+
+
+---------------------------battery considerations---------------------------------
+1.battery contactor having precharge check stage checking for abnormal currents. # using hall current sensor.
+2.

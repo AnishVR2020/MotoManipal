@@ -1,0 +1,55 @@
+1. put pressure release valve
+2. put 20mm difference in hv components. velments may be taken as container d.5.1.4.
+3. hv needs to be protected against side crash, inside a reinforced structure--> for structural integrity d.5.2.1.
+4. hvs connections should be impossible to touch with a cylinder probe of 100mm length and 6mm dia. d.5.4.1.
+5. hvs connections need to be plastic encapsulated. d.5.4.2.
+6. cables of HV needs to be ORANGE of nonflammable grade UL-94 V0, FAR25 or equivalent.
+7. add current sensor on precharge circuit so that 5 tau is completed. if(ipre <= 100ma) maybeee 
+8. ALWAYS ENSURE THE PRECHARGE STATE TURNS ON ATLEAST 30 SECONDS BEFORE. (if possible calculate input capacitance & use delay circuit 5tau)
+9. have to use a different precharge stage so that it can also turn off with the main stage at the same time in some worst case.
+10. every lv component needs fuse just more than max supply current.
+11. charging contacts together when touched need to have an ip rating of ip65. d.8.3.3
+12. charging port needs to be safegaurded from impact. d.8.3.4
+13. msd needed so as to quickly disconnect the whole hv system.
+14. dashboard should show the battery voltage at all times. also should have a red light to state that. d.10.1.1
+15. killswitch fixed to chassis. d.10.3.3 rotary type
+16. inner battery mountings decide.
+
+1. charge enable.
+2. thermister wires decide. 
+3. current sensor placement.
+4. read wiring the batteries, don't plug the bms until last step.
+5. "verify cell voltage tap wiring" read.
+6. download bms utility.
+7. connect BMS to computer to all wiring harnesses.
+8. program bms to profile set up wizard.
+9. test the BMS for 1 charge-discharge cycle.
+
+components req for hv bat:
+1)sheet metal               x  15
+2)mica board                x  10
+3)cell spacers              x 700
+4)fuse 200 A                x   5
+5)HV DC m&f connector       x   1
+6)thermistors               x  20
+7)32 pin gold connector m/f x   2
+8)thermal paste tubes       x   5
+9)kepton tape               x  10
+10)solder iron              x   5
+11)solder stand             x   5
+12)Spot Welding machine     x   1
+13)Contactor 300A min       x   1
+14)precharge/diode          x  10
+14)Economizer/red light     x   1
+15)brazing equipment        x   1
+16)Cells                    x 486
+17)1mm aluminum foil        x  20
+18)Highduty solder wire     x   2 
+19)orange hv wires far25    x  10-mtrs
+20)heavy duty plastic caps  x  50
+21)Big Insulation Mat       x   1
+22)Heavy duty gloves        x  10
+    
+
+
+
